@@ -1,0 +1,12 @@
+name:                depender
+version:             0.1.0.0
+license:             BSD3
+author:              "Malvin"
+maintainer:          "malvin@w4eg.eu"
+
+dependencies:
+- base >= 4.7 && < 5
+- haskell-and-cpp
+
+library:
+  source-dirs: src
