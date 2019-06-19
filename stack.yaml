@@ -1,9 +1,8 @@
-resolver: lts-13.22
+resolver: lts-13.25
 
 packages:
 - .
 
 extra-deps:
-- git: https://github.com/jakubfijalkowski/haskell-and-cpp.git
-  commit: 3dec37dabdb93fda25663435dc58b8781f8b0b77
-
+- git: https://github.com/m4lvin/haskell-and-cpp.git
+  commit: 36317c404a4e3c0df44a75682c621e4f37e49ddc
